@@ -12,6 +12,10 @@
 - Variables
     - containers for storing data values.
 - Creating Variables
-    - 
+    - use the assignment operator = to assign a value to a variable:
+      ```python
+def hello_world():
+    print("Hello, World!")
+
 -
 ## 2. Control Flow
