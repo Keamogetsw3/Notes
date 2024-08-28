@@ -14,6 +14,9 @@
 - Creating Variables
     - use the assignment operator = to assign a value to a variable:
       ```python
-
+          x = 5
+          y = "John"
+          print(x)
+          print(y)
 -
 ## 2. Control Flow
