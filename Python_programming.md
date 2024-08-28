@@ -18,5 +18,10 @@
           y = "John"
           print(x)
           print(y)
--
+    - assign the same value to multiple variables at once:
+      ```python
+          site1 = site2  = 5
+          site3 = site2  = "John"
+- hh
+
 ## 2. Control Flow
