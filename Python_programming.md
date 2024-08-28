@@ -8,8 +8,10 @@
 -
 
 ### 1.2 Learn the Basics
-#### 1.1.1 
--
--
+#### 1.2.1 Python Variables
+- Variables
+    - containers for storing data values.
+- Creating Variables
+    - 
 -
 ## 2. Control Flow
